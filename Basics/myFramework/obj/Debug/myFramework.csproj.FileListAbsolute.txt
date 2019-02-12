@@ -1,0 +1,5 @@
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\myFramework\bin\Debug\myFramework.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\myFramework\bin\Debug\myFramework.pdb
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\myFramework\obj\Debug\myFramework.csprojResolveAssemblyReference.cache
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\myFramework\obj\Debug\myFramework.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\myFramework\obj\Debug\myFramework.pdb

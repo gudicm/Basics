@@ -1,0 +1,11 @@
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\RestClient.Tests.dll.config
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\RestClient.Tests.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\RestClient.Tests.pdb
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\System.Net.Http.Extensions.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\System.Net.Http.Primitives.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\System.Net.Http.Extensions.xml
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\bin\Debug\System.Net.Http.Primitives.xml
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\obj\Debug\RestClient.Tests.csproj.App.config
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\obj\Debug\RestClient.Tests.csprojResolveAssemblyReference.cache
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\obj\Debug\RestClient.Tests.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\RestClient.Tests\obj\Debug\RestClient.Tests.pdb

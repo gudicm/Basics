@@ -1,0 +1,4 @@
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\Assesment\bin\Debug\Assesment.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\Assesment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\Assesment\obj\Debug\Assesment.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\Assesment\obj\Debug\Assesment.pdb

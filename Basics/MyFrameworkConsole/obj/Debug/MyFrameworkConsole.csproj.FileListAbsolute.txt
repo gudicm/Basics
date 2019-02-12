@@ -1,0 +1,8 @@
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\bin\Debug\MyFrameworkConsole.exe.config
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\bin\Debug\MyFrameworkConsole.exe
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\bin\Debug\MyFrameworkConsole.pdb
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\bin\Debug\myFramework.dll
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\bin\Debug\myFramework.pdb
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\obj\Debug\MyFrameworkConsole.csprojResolveAssemblyReference.cache
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\obj\Debug\MyFrameworkConsole.exe
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\MyFrameworkConsole\obj\Debug\MyFrameworkConsole.pdb

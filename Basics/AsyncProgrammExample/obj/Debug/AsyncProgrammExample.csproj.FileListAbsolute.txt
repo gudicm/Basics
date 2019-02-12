@@ -1,0 +1,6 @@
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\AsyncProgrammExample\bin\Debug\AsyncProgrammExample.exe.config
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\AsyncProgrammExample\bin\Debug\AsyncProgrammExample.exe
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\AsyncProgrammExample\bin\Debug\AsyncProgrammExample.pdb
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\AsyncProgrammExample\obj\Debug\AsyncProgrammExample.csprojResolveAssemblyReference.cache
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\AsyncProgrammExample\obj\Debug\AsyncProgrammExample.exe
+D:\Users\gudic.marko\Source\Repos\Basics\Basics\AsyncProgrammExample\obj\Debug\AsyncProgrammExample.pdb
