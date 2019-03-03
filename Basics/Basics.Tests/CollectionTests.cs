@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Text;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Basics.Tests
@@ -42,7 +44,15 @@ namespace Basics.Tests
             l.Add("foo1");
             l.Add("foo2");
             Assert.AreEqual(2,l.Count);
-            Assert.AreEqual("foo2",l[1]); 
+            Assert.AreEqual("foo2",l[1]);
+
+            // enumerable to list
+            IEnumerable<string> eStr = new List<string>() {"one", "two","three"};
+            var lStr =  eStr.ToList();
+            lStr.Add("four");
+            Assert.AreEqual(4, lStr.Count());
+            Assert.AreEqual("four", lStr.Last());
+
         }
     }
 }

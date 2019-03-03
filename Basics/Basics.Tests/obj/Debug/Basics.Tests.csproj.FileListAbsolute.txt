@@ -1,6 +1,0 @@
-D:\Users\gudic.marko\Source\Repos\Basics\Basics\Basics.Tests\bin\Debug\Basics.Tests.dll
-D:\Users\gudic.marko\Source\Repos\Basics\Basics\Basics.Tests\bin\Debug\Basics.Tests.pdb
-D:\Users\gudic.marko\Source\Repos\Basics\Basics\Basics.Tests\obj\Debug\Basics.Tests.dll
-D:\Users\gudic.marko\Source\Repos\Basics\Basics\Basics.Tests\obj\Debug\Basics.Tests.pdb
-D:\Users\gudic.marko\Source\Repos\Basics\Basics\Basics.Tests\obj\Debug\Basics.Tests.csprojResolveAssemblyReference.cache
-D:\Users\gudic.marko\Source\Repos\Basics\Basics\Basics.Tests\obj\Debug\Basics.Tests.csproj.CoreCompileInputs.cache
