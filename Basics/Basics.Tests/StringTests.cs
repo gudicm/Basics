@@ -87,7 +87,7 @@ namespace Basics.Tests
         }
 
         [TestMethod]
-        public void TestsRegex()
+        public void TestsRegex1()
         {
             //Regex.Match(InputStr, Pattern, RegexOptions)
             //RegexOptions.Compiled 
@@ -111,6 +111,13 @@ namespace Basics.Tests
             Assert.IsTrue(Regex.IsMatch("Testing", "ING", RegexOptions.IgnoreCase));
 
 
+        }
+
+        [TestMethod]
+        public void TestsRegex2()
+        {
+            string pattern = @"^\d+$";
+            Assert.IsTrue(Regex.IsMatch("0123456", pattern));
         }
     }
 }
