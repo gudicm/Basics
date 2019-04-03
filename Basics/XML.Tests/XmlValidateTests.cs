@@ -18,6 +18,8 @@ namespace XML.Tests
         [TestMethod]
         public void CurrentPathTest()
         {
+            
+
             var path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName;
             Debug.Print(path);
         }
